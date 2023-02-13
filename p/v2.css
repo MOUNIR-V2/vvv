@@ -1,0 +1,672 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.header ul{
+    margin-right: 50px;
+    margin-top: 15px;
+}
+.header ul li{
+    display: inline-block;
+    margin-left: 50px;
+    border: 2px solid black;
+    padding: 8px;
+    border-radius: 17px;
+    font-family: 'Poppins', sans-serif;
+    background-color: aqua;
+    font-weight: bolder;
+}
+.parent h1{
+    margin-top: 272px;
+    padding-left: 67px;
+    color: #0099ff;
+    font-weight: bold;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.parent p {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    color: #273036;
+}
+.parent .n1{
+            margin-top: 15px;
+            position: relative;
+            top: 64px;
+            font-size: 40px;
+            color:red;
+}
+.container-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 83%;
+    margin-left: 135px;
+    margin-top: 150px;
+}
+.container-1 img{
+    width: 250px;
+}
+.container-1 h2{
+    position: relative;
+    left: 43px;
+}
+.container-1 span{
+    position: relative;
+    left: 101px;
+    top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#o{
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    color: #00cba9;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    left: 44px;
+}
+#o:hover{
+    background-color: #e7008a;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+#p{
+    position: relative;
+    top: 35px;
+    left: 23px;
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p:hover{
+    background-color: #ffd700;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+.container-1 a  {
+    position: relative;
+    left: 75px;
+    top: 15px;
+    text-decoration: none;
+    margin-top: 150px;
+}
+.v8{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 83%;
+    margin-left: 135px;
+    margin-top: 150px;
+}
+.v8 img{
+    width: 250px;
+}
+.v8 h2{
+    position: relative;
+    left: 43px;
+}
+.v8 span{
+    position: relative;
+    left: 101px;
+    top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#o{
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    color: #00cba9;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    left: 44px;
+}
+#o:hover{
+    background-color: #e7008a;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+#p{
+    position: relative;
+    top: 35px;
+    left: 23px;
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p:hover{
+    background-color: #ffd700;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+.v8 a  {
+    position: relative;
+    left: 75px;
+    top: 15px;
+    text-decoration: none;
+    margin-top: 150px;
+}
+.v9{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 83%;
+    margin-left: 135px;
+    margin-top: 150px;
+}
+.v9 img{
+    width: 250px;
+}
+.v9 h2{
+    position: relative;
+    left: 43px;
+}
+.v9 span{
+    position: relative;
+    left: 101px;
+    top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#o{
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    color: #00cba9;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    left: 44px;
+}
+#o:hover{
+    background-color: #e7008a;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+#p{
+    position: relative;
+    top: 35px;
+    left: 23px;
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p:hover{
+    background-color: #ffd700;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+.v9 a  {
+    position: relative;
+    left: 75px;
+    top: 15px;
+    text-decoration: none;
+    margin-top: 150px;
+}
+.v10{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 83%;
+    margin-left: 135px;
+    margin-top: 150px;
+}
+.v10 img{
+    width: 250px;
+}
+.v10 h2{
+    position: relative;
+    left: 43px;
+}
+.v10 span{
+    position: relative;
+    left: 101px;
+    top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#o{
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    color: #00cba9;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    left: 44px;
+}
+#o:hover{
+    background-color: #e7008a;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+#p{
+    position: relative;
+    top: 35px;
+    left: 45px;
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p:hover{
+    background-color: #ffd700;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+.v10 a  {
+    position: relative;
+    left: 75px;
+    top: 15px;
+    text-decoration: none;
+    margin-top: 150px;
+}
+.child-19{
+    margin-top: 6%;
+    margin-left: 46%;
+}
+.child-19 img{
+    width: 250px;
+}
+.child-19 h2{
+    margin-top: 1px;
+    margin-left: 57px;
+}
+.child-19 #o{
+    top: 13px;
+    left: 38px;
+}
+.child-19 span{
+    position: relative;
+    top: 23px;
+    left: 117px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.child-19 #p{
+    left: 28px;
+}
+.child-19 a{
+    text-decoration: none;
+}
+.exercice a ,.exercice-1 a{
+    color: #ffd700;
+    font-family: 'Poppins', sans-serif;
+}
+
+.exercice-1{
+    background-color: #59ab02;
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    float: left;
+    margin-top: 285px;
+    box-shadow: -5px 5px black;
+    margin-right: 10px;
+    text-decoration: none;
+    margin-left: 1%;
+    padding-left: 2%;
+}
+.exercice-1 a{
+    text-decoration: none;
+}
+.exercice-1 i{
+    margin-left: -101%;
+}
+.footer{
+    background-color: #00cba9;
+    margin-top: 19%;
+    height: 9%;
+    border-radius: 2%;
+}
+.footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-left: 61%;
+    position: relative;
+    top: 84px;
+    left: -26%;
+}
+.footer p{
+    color: white;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 113px;
+    margin-left: 39%;
+    letter-spacing: 2px;
+}
+.footer a{
+    font-size: 163%;
+    border: 2px solid white;
+    padding: 17px;
+    border-radius: 29%;
+    color: white;
+}
+.v0{
+    float: right;
+    margin-right: -277px;
+    font-size: 39px;
+    background-color: turquoise;
+    padding: 33px;
+    border-radius: 175px;
+    padding-right: 2px;
+    padding-left: 3px;
+    position: fixed;
+    top: 140px;
+    left: 96%;
+
+}
+.v0 ul {
+    list-style: none;
+    padding-left: -1px;
+    margin-right: 31px;
+}
+.v0 ul li {
+  padding-left: 33%;
+}
+.v0 ul li a{
+    color:blue;
+}
+@media only screen and (max-width:400px){
+
+    .header ul{
+        display: flex;
+        margin-left: -20%;
+        width: 84%;
+    }
+    .header img{
+        width: 150px;
+    }
+    .v0{
+        margin-left:-2%
+    }
+    .v0 ul{
+        margin-left: -24%;
+    }
+    .parent h1{
+        width: 148%;
+        margin-top: 29%;
+    }
+    .parent p{
+        border: 2px solid black;
+        background-color: #ffd700;
+        margin-right: -44%;
+        margin-left: 54%;
+    }
+    .container-1{
+        display: flex;
+        width: 163%;
+        margin-left: 18%;
+        margin-top: 23%;
+    }
+    .child-4{
+        margin-top: 13%;
+    }
+    .child-5{
+        margin-top: 13%;
+    }
+    .v8{
+        display: flex;
+        width: 163%;
+        margin-left: 18%;
+        margin-top: 23%;
+    }
+    .child-9{
+        margin-top: 13%;
+    }
+    .child-10{
+        margin-top: 13%;
+    }
+    .v9{
+        display: flex;
+        width: 163%;
+        margin-left: 18%;
+        margin-top: 23%;
+    }
+    .child-13{
+        margin-top: 13%;
+    }
+    .child-14{
+        margin-top: 13%;
+    }
+    .v10{
+        display: flex;
+        width: 163%;
+        margin-left: 18%;
+        margin-top: 23%;
+    }
+    .child-17{
+        margin-top: 13%;
+    }
+    .child-18{
+        margin-top: 13%;
+    }
+    .child-19{
+        margin-top: 19%;
+        margin-left: 45%;
+    }
+    .child-19 img{
+        position: relative;
+        left: 13px;
+    }
+    .exercice-1{
+        position: relative;
+        top: -231px;
+        left: 3px;
+    }
+    .footer{
+        width: 190%;
+        height: 256px;
+    }
+    .footer ul{
+        margin-left: 36%;
+    }
+    .footer p{
+        width: 141%;
+        padding-left: -49%;
+        position: absolute;
+        left: -74px;
+    }
+}
+@media only screen and (max-width:1080px){   
+    .container-1{
+        width: 65rem;
+        margin-left: 1rem;
+    }
+    .v8{
+        width: 65rem;
+        margin-left: 1rem;
+    }
+    .v8 .child-7 h2{
+        left: 0rem;
+    }
+    .v9 .child-11 h2{
+        left: 1rem;
+    }
+    .v10 .child-17 h2{
+        left: 0rem;
+        width: 17rem;
+    }
+    .v9{
+        width: 65rem;
+        margin-left: 1rem;
+    }
+    .v10{
+        width: 65rem;
+        margin-left: 1rem;
+    }
+    .child-19{
+        margin-left: 20rem;
+        margin-top: 6rem;
+    }
+    .exercice-1{
+        margin-top: 9rem;
+    }
+    .v0{
+        display: none;
+    }
+    .footer{
+        width: 69rem;
+    }
+    .footer ul{
+        margin-left: 23rem;
+        margin-right: -16rem;   
+    }
+    .footer p{
+        margin-left: 24%;
+    }
+}
+
+@media only screen and (max-width:600px){
+        .header img{
+            width: 150px;
+        }
+        .header ul{
+            position: relative;
+            top: 18%;
+            left: 21%;
+            margin-left: -8%;
+            margin-right: -52px;
+        }        
+        .header ul li {
+            font-size: 69%;
+        }
+        .parent{
+            text-align: center;
+            text-align: center;
+            margin-left: 11%;
+        }
+        .parent h1{
+            margin-top: 16%;
+            margin-left: -14%;
+        }
+        .parent p{
+            border: 1px solid black;
+            background-color: #ffd700;
+            width: 82%;
+            padding-left: -5%;
+            margin-left: 15%;
+            margin-top: 3%;
+        }
+        .parent .n1{
+            margin-top: -10%;
+        }
+        .v0{
+            margin-left: -8%;
+        }
+        .container-1{
+            display: flex;
+            width: 145%;
+            margin-left: 3%;
+            margin-top: 23%;
+        }
+        .child-4{
+            margin-top: 13%;
+        }
+        .child-5{
+            margin-top: 13%;
+        }
+        .v8{
+            display: flex;
+            width: 145%;
+            margin-left: 3%;
+            margin-top: 23%;
+        }
+        .child-9{
+            margin-top: 13%;
+        }
+        .child-10{
+            margin-top: 13%;
+        }
+        .v9{
+            display: flex;
+            width: 145%;
+            margin-left: 3%;
+            margin-top: 23%;
+        }
+        .child-13{
+            margin-top: 13%;
+        }
+        .child-14{
+            margin-top: 13%;
+        }
+        .v10{
+            display: flex;
+            width: 145%;
+            margin-left: 3%;
+            margin-top: 23%;
+        }
+        .child-17{
+            margin-top: 13%;
+        }
+        .child-18{
+            margin-top: 13%;
+        }
+        .child-19{
+            margin-top: 17%;
+        }
+        .child-19 img{
+            width: 248px;
+            margin-top: 37px;
+            margin-left: -180px
+        }
+        .child-19 h2{
+            margin-left:-54%
+        }
+        .child-19 #o{
+            margin-left: -80%;
+        }
+        .child-19 span{
+            position: relative;
+            left: -77px;
+            font-size: 22px;
+        }
+        .child-19 #p{
+            margin-left: -73%;
+        }
+        .exercice-1{
+            position: relative;
+            top: -221px;
+            left: 14px;
+        }
+        .footer{
+            width: 161%;
+            height: 255px;
+        }
+        .footer ul{
+            margin-left: 36%;
+        }
+        .footer p{
+            width: 141%;
+            padding-left: -49%;
+            position: absolute;
+            left: -74px;
+        }
+}

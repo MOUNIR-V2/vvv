@@ -1,0 +1,1155 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 155pc;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -21%;
+}
+img{
+    width: 150px;
+    height: auto;
+}
+.header ul{
+    margin-right: 50px;
+    margin-top: 15px;
+}
+.header ul li{
+    display: inline-block;
+    margin-left: 50px;
+}
+a:link,:visited{
+    color: blue;
+}
+.header ul li a{
+    text-decoration: none;
+    border: 4px solid #0099ff;
+    padding: 9px 11px 9px 11px;
+    border-radius: 10px;
+    color: #ffd700;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;;
+}
+.parent h1{
+    margin-top: 272px;
+    padding-left: 67px;
+    color: #0099ff;
+    font-weight: bold;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.parent p {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    color: #273036;
+}
+.parent .n1{
+        margin-top: 15px;
+        position: relative;
+        top: 64px;
+        font-size: 40px;
+        color:red;
+}
+.container-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 83%;
+    margin-left: 135px;
+    margin-top: 150px;
+}
+.container-1 img{
+    width: 250px;
+    box-shadow: -3px 2px 15px 2px black;
+}
+.container-1 h2{
+    position: relative;
+    left: 43px;
+    top: 8px;
+}
+.container-1 span{
+    position: relative;
+    left: 101px;
+    top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#o{
+font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    color: #00cba9;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    left: 44px;
+    top: 18px;
+}
+#o:hover{
+    background-color: #e7008a;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+#p{
+    position: relative;
+    top: 35px;
+    left: 23px;
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p:hover{
+    background-color: #ffd700;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+.container-1 a  {
+    position: relative;
+    left: 75px;
+    top: 15px;
+    text-decoration: none;
+    margin-top: 150px;
+}
+.v8{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 83%;
+    margin-left: 135px;
+    margin-top: 150px;
+}
+.v8 img{
+    width: 250px;
+    box-shadow: -3px 2px 15px 2px black;
+}
+.v8 h2{
+    position: relative;
+    left: 43px;
+}
+.v8 span{
+    position: relative;
+    left: 101px;
+    top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#o{
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    color: #00cba9;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    left: 44px;
+}
+#o:hover{
+    background-color: #e7008a;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+#p{
+    position: relative;
+    top: 35px;
+    left: 23px;
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p:hover{
+    background-color: #ffd700;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+.v8 a  {
+    position: relative;
+    left: 75px;
+    top: 15px;
+    text-decoration: none;
+    margin-top: 150px;
+}
+.v9{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 83%;
+    margin-left: 135px;
+    margin-top: 150px;
+}
+.v9 img{
+    width: 250px;
+    box-shadow: -3px 2px 15px 2px black;
+}
+.v9 h2{
+    position: relative;
+    left: 43px;
+}
+.v9 span{
+    position: relative;
+    left: 101px;
+    top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#o{
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    color: #00cba9;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    left: 44px;
+}
+#o:hover{
+    background-color: #e7008a;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+#p{
+    position: relative;
+    top: 35px;
+    left: 23px;
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p:hover{
+    background-color: #ffd700;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+.v9 a  {
+    position: relative;
+    left: 75px;
+    top: 15px;
+    text-decoration: none;
+    margin-top: 150px;
+}
+.v10{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 83%;
+    margin-left: 135px;
+    margin-top: 150px;
+}
+.v10 img{
+    width: 250px;
+    box-shadow: -3px 2px 15px 2px black;
+}
+.v10 h2{
+    position: relative;
+    left: 43px;
+}
+.v10 span{
+    position: relative;
+    left: 101px;
+    top: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+#o{
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    color: #00cba9;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    position: relative;
+    left: 44px;
+}
+#o:hover{
+    background-color: #e7008a;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+#p{
+    position: relative;
+    top: 35px;
+    left: 23px;
+    font-family: GTWalsheim, system-ui, sans-serif;
+    font-weight: 900;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+#p:hover{
+    background-color: #ffd700;
+    font-size: 19px;
+    transition: 0.4s ease all;
+}
+.v10 a  {
+    position: relative;
+    left: 75px;
+    top: 15px;
+    text-decoration: none;
+    margin-top: 150px;
+}
+.child-19{
+    margin-top: 6%;
+    margin-left: 46%;
+}
+.child-19 img{
+    width: 250px;
+    box-shadow: -3px 2px 15px 2px black;
+}
+.child-19 h2{
+    margin-top: 1px;
+    margin-left: 65px;
+}
+.child-19 #o{
+    top: 13px;
+    left: 57px;
+}
+.child-19 span{
+    position: relative;
+    top: 23px;
+    left: 117px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.child-19 #p{
+    left: 41px;
+}
+.child-19 a{
+    text-decoration: none;
+}
+.exercice a{
+    background-color: #59ab02;
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    float: right;
+    margin-top: 285px;
+    box-shadow: 8px 4px black;
+    margin-right: 11px;
+    text-decoration: none;
+}
+.exercice a ,.exercice-1 a{
+    color: #ffd700;
+    font-family: 'Poppins', sans-serif;
+}
+
+.exercice-1{
+    background-color: #59ab02;
+    border: 1px solid black;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    float: left;
+    margin-top: 285px;
+    box-shadow: -5px 5px black;
+    margin-right: 10px;
+    text-decoration: none;
+    margin-left: 1%;
+    padding-left: 2%;
+}
+.exercice-1 a{
+    text-decoration: none;
+}
+.exercice-1 i{
+    margin-left: -101%;
+}
+.footer{
+    background-color: #00cba9;
+    margin-top: 19%;
+    height: 9%;
+    border-radius: 2%;
+}
+.footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-left: 61%;
+    position: relative;
+    top: 84px;
+    left: -26%;
+}
+.footer p{
+    color: white;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 113px;
+    margin-left: 39%;
+    letter-spacing: 2px;
+}
+.footer a{
+    font-size: 163%;
+    border: 2px solid white;
+    padding: 17px;
+    border-radius: 29%;
+}
+.v0{
+    float: right;
+    margin-right: -277px;
+    font-size: 39px;
+    background-color: turquoise;
+    padding: 33px;
+    border-radius: 175px;
+    padding-right: 2px;
+    padding-left: 3px;
+    position: fixed;
+    top: 140px;
+    left: 96%;
+
+}
+.v0 ul {
+    list-style: none;
+    padding-left: -1px;
+    margin-right: 31px;
+}
+.v0 ul li {
+  padding-left: 33%;
+}
+.v0 ul li a{
+    color:blue;
+}
+@media only screen and (max-width:600px){
+    body{
+        width: 14pc;
+    }
+    .header{
+        margin-right: -97%;
+        margin-top: -28%;
+    }
+    .list-1 ul{
+        position: relative;
+        top: 18%;
+        margin-left: -48%;
+        margin-right: 3px;
+    }
+    svg{
+        width: 0;
+    }
+    .child-1{
+        position: relative;
+        top: 93px;
+        margin-right: -14%;
+        margin-left: -33%;
+    }
+    .child-1 ul li{
+        padding: 10px;
+        display: inline-block;
+        position: relative;
+        top: 25px;
+        left: -123px;
+        margin-left: 116px;
+        margin-right: -117px;
+        color: #00cba9;
+    }
+    .child-1 ul li a {
+        background-color: #00cba9;
+        padding: 6px;
+    }
+    .child{
+        margin: 15% 0 0 0 ;
+    }
+    .parent{
+        margin-top: -247px;
+    }
+    .parent h1{
+        position: relative;
+        left: -47px;
+        font-size: 32px;
+        width: 192%;
+        top: 119px;
+    }
+    .parent p{
+        font-size: 33px;
+        margin: 3%;
+        position: relative;
+        left: 45%;
+        top: 144px;
+        border: 3px solid black;
+        background-color: yellow;
+        width: 123%;
+    }
+    .parent .n1{
+        margin-top: 15px;
+        position: relative;
+        top: 148px;
+        font-size: 40px;
+        color: red;
+    }
+    .container-1{
+        display: flex;
+        justify-content: space-around;
+        width: 163%;
+    }
+    .container-1 img{
+        width: 150px;
+    }
+    .child-4 img{
+        margin-left: -123px;
+        width: 150px;
+        margin-top: 36px;
+    }
+    .child-4 h2{
+        position: relative;
+        left: -103px;
+        font-size: 15px;
+    }
+    .child-4 #o{
+        position: relative;
+        left: -90px;
+        top: 5px;
+        font-size: 11px;
+        padding: 4px;
+    }
+    .child-4 span{
+        left: -55px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-4 #p{
+        left: -112px;
+        font-size: 11px;
+        top: 14px;
+        padding: 4px;
+    }
+    .child-5 img{
+        position: relative;
+        left: -109px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-5 h2{
+        font-size: 15px;
+        left: -76px;
+    }
+    .child-5 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -48%;
+        top: 3%;
+    }
+    .child-5 span{
+        left: -41px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-5 #p{
+        font-size: 11px;
+        left: -93px;
+        top: 15px;
+        padding: 4px;
+
+    }
+    .child-2 img{
+        margin-left: -123px;
+        width: 150px;
+        margin-top: 36px;
+    }
+    .child-2 h2{
+        position: relative;
+        left: -85px;
+        font-size: 15px;
+    }
+    .child-2 #o{
+        position: relative;
+        left: -90px;
+        top: 5px;
+        font-size: 11px;
+        padding: 4px;
+    }
+    .child-2 span{
+        left: -55px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-2 #p{
+        left: -112px;
+        font-size: 11px;
+        top: 14px;
+        padding: 4px;
+    }
+    .child-3 img{
+        position: relative;
+        left: -109px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-3 h2{
+        font-size: 15px;
+        left: -76px;
+    }
+    .child-3 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -48%;
+        top: 3%;
+    }
+    .child-3 span{
+        left: -41px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-3 #p{
+        font-size: 11px;
+        left: -93px;
+        top: 15px;
+        padding: 4px;
+
+    }
+    .child-6{
+        margin-top: 34px;
+        margin-left: -87px;
+        position: relative;
+        left: -16%;
+    }
+    .child-6 h2{
+        font-size: 15px;
+    }
+    .child-6 #o{
+        font-size: 11px;
+        padding: 4px;
+        top: 4px;
+        left: 37px;
+    }
+    .child-6 span{
+        top: 8px;
+        left: 74px;
+        font-size: 14px;
+    }
+    .child-6 #p{
+        font-size: 11px;
+        top: 13px;
+        padding: 4px;
+        left: 16px;
+    }
+    .child-7 img{
+        margin-left: -118px;
+        width: 150px;
+        margin-top: 36px;
+    }
+    .child-7 h2{
+        position: relative;
+        left: -118px;
+        font-size: 15px;
+    }
+    .child-7 #o{
+        position: relative;
+        left: -97px;
+        top: 5px;
+        font-size: 11px;
+        padding: 4px;
+    }
+    .child-7 span{
+        left: -60px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-7 #p{
+        left: -113px;
+        font-size: 11px;
+        top: 14px;
+        padding: 4px;
+    }
+    .child-8 img{
+        position: relative;
+        left: -109px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-8 h2{
+        font-size: 15px;
+        left: -94px;
+    }
+    .child-8 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -52%;
+        top: 3%;
+    }
+    .child-8 span{
+        left: -41px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-8 #p{
+        font-size: 11px;
+        left: -93px;
+        top: 13px;
+        padding: 4px;
+    }
+    .child-9 img{
+        position: relative;
+        left: -118px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-9 h2{
+        font-size: 15px;
+        left: -106px;
+    }
+    .child-9 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -63%;
+        top: 3%;
+    }
+    .child-9 span{
+        left: -57px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-9 #p{
+        font-size: 11px;
+        left: -112px;
+        top: 15px;
+        padding: 4px;
+    }
+    .child-10 img{
+        position: relative;
+        left: -109px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-10 h2{
+        font-size: 15px;
+        left: -84px;
+    }
+    .child-10 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -51%;
+        top: 3%;
+    }
+    .child-10 span{
+        left: -41px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-10 #p{
+        font-size: 11px;
+        left: -93px;
+        top: 15px;
+        padding: 4px;
+
+    }
+    .child-11 img{
+        position: relative;
+        left: -118px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-11 h2{
+        font-size: 15px;
+        left: -116px;
+    }
+    .child-11 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -62%;
+        top: 3%;
+    }
+    .child-11 span{
+        left: -54px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-11 #p{
+        font-size: 11px;
+        left: -110px;
+        top: 15px;
+        padding: 4px;
+    }
+    .child-12 img{
+        position: relative;
+        left: -109px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-12 h2{
+        font-size: 15px;
+        left: -76px;
+    }
+    .child-12 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -48%;
+        top: 3%;
+    }
+    .child-12 span{
+        left: -41px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-12 #p{
+        font-size: 11px;
+        left: -93px;
+        top: 15px;
+        padding: 4px;
+    }
+    .child-13 img{
+        position: relative;
+        left: -118px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-13 h2{
+        font-size: 15px;
+        left: -113px;
+    }
+    .child-13 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -57%;
+        top: 3%;
+    }
+    .child-13 span{
+        left: -45px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-13 #p{
+        font-size: 11px;
+        left: -99px;
+        top: 14px;
+        padding: 4px;
+    }
+    .child-14 img{
+        position: relative;
+        left: -109px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-14 h2{
+        font-size: 15px;
+        left: -89px;
+    }
+    .child-14 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -48%;
+        top: 3%;
+    }
+    .child-14 span{
+        left: -41px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-14 #p{
+        font-size: 11px;
+        left: -90px;
+        top: 13px;
+        padding: 4px;
+    }
+    .child-15 img{
+        position: relative;
+        left: -118px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-15 h2{
+        font-size: 15px;
+        left: -106px;
+    }
+    .child-15 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -55%;
+        top: 3%;
+    }
+    .child-15 span{
+        left: -44px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-15 #p{
+        font-size: 11px;
+        left: -101px;
+        top: 15px;
+        padding: 4px;
+    }
+    .child-16 img{
+        position: relative;
+        left: -109px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-16 h2{
+        font-size: 15px;
+        left: -86px;
+    }
+    .child-16 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -50%;
+        top: 3%;
+    }
+    .child-16 span{
+        left: -41px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-16 #p{
+        font-size: 11px;
+        left: -93px;
+        top: 12px;
+        padding: 4px;
+
+    }
+    .child-17 img{
+        position: relative;
+        left: -117px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-17 h2{
+        font-size: 15px;
+        left: -114px;
+    }
+    .child-17 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -55%;
+        top: 3%;
+    }
+    .child-17 span{
+        left: -45px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-17 #p{
+        font-size: 11px;
+        left: -101px;
+        top: 15px;
+        padding: 4px;
+    }
+    .child-18 img{
+        position: relative;
+        left: -109px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-18 h2{
+        font-size: 15px;
+        left: -76px;
+    }
+    .child-18 #o{
+        font-size: 11px;
+        padding: 4px;
+        left: -48%;
+        top: 3%;
+    }
+    .child-18 span{
+        left: -41px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-18 #p{
+        font-size: 11px;
+        left: -93px;
+        top: 15px;
+        padding: 4px;
+    }
+    .child-19 img{
+        position: relative;
+        left: -109px;
+        top: 0px;
+        width: 150px;
+        margin-top: 37px;
+    }
+    .child-19 h2{
+        font-size: 15px;
+        left: -76px;
+    }
+    .child-19 #o{
+        font-size: 11px;
+        padding: 4px;
+        margin-left: -6pc;
+        left: 9px;
+        top: 4px;
+    }
+    .child-19 span{
+        left: -26px;
+        top: 9px;
+        font-size: 14px;
+    }
+    .child-19 #p{
+        font-size: 11px;
+        left: 52px;
+        top: 15px;
+        padding: 4px;
+        margin-left: -143px;
+
+    }
+    .v8{
+        display: flex;
+        justify-content: space-around;
+        width: 163%;
+        margin-top: 1px;
+    }
+    .v9{
+        display: flex;
+        justify-content: space-around;
+        width: 163%;
+        margin-top: 1px;
+    }
+    .v10{
+        display: flex;
+        justify-content: space-around;
+        width: 163%;
+        margin-top: 1px;
+    }
+    .child-19{
+        margin-left: 151px;
+    }
+    .child-19 h2{
+        font-size: 14px;
+        left: -126px;
+        position: relative;
+    }
+    .v0 ul{
+        position: fixed;
+        top: 90px;
+        margin-left: -8%;
+        background-color: turquoise;
+        width: 25%;
+        padding-right: 80px;
+        border-radius: 21px;
+        line-height: 59px;
+    }
+    .footer{
+        margin-top: 328%;
+        height: 14%;
+        padding-top: 20%;
+        width: 229%;
+    }
+    .footer ul{
+        margin-left: 12%;
+        margin-right: -20%;
+        padding-right: -52%;
+        position: relative;
+        left: -19%;
+        width: 546px;
+    }
+    .footer p{
+        color: black;
+        font-size: 12px;
+        position: relative;
+        left: -103px;
+        top: 67px;
+        font-weight: bold;
+    }
+    .exercice-1{
+        font-size: 15px;
+        position: relative;
+        top: 353px;
+    }
+    .exercice{
+        position: relative;
+        left: 126%;
+    }
+}
+@media only screen and (max-width:400px){
+
+    .header ul{
+        display: flex;
+        margin-left: -20%;
+        width: 84%;
+    }
+    .header img{
+        width: 150px;
+    }
+    .header ul li{
+        padding: 10px;
+        display: inline-block;
+        position: relative;
+        top: 14px;
+        left: -168px;
+        margin-left: 89px;
+        margin-right: -309px;
+        color: #00cba9;
+    }
+    .child-19{
+        margin-left:56%
+    }
+
+}
+@media only screen and (max-width:1080px){
+    svg{
+        display: none;
+    }
+    .header{
+        margin-top: 1rem;
+    }
+    .child-1 .list-1 a{
+        background-color: black;
+        color: white;
+    }
+    .v0{
+        display: none;
+    }
+    .container-1{
+        width: 67rem;
+        margin-left: 0rem;
+    }
+    .v8{
+        width: 67rem;
+        margin-left: 0rem;
+    }
+    .v9{
+        width: 67rem;
+        margin-left: 0rem;
+    }
+    .v10{
+        width: 67rem;
+        margin-left: 0rem;
+    }
+    .child-19{
+            margin-left: 20rem;
+    }
+    .exercice-1{
+        margin-top: 7rem;
+    }
+    .exercice{
+        position: relative;
+        top: -11rem;
+    }
+    .footer{
+        height: auto;
+        width: 70rem;
+    }
+    .footer ul{
+        display: -webkit-inline-box;
+        margin-right: -27rem;
+    }
+    .footer p{
+        margin-left: 20rem;
+    }
+}
